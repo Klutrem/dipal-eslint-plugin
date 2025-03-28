@@ -10,11 +10,11 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "@typescript-eslint/parser": "^7.18.0",
-    "@typescript-eslint/utils": "^7.18.0"
+    "@typescript-eslint/parser": "^5.0.1",
+    "@typescript-eslint/utils": "^5.0.1"
   },
   "devDependencies": {
-    "@typescript-eslint/rule-tester": "^7.18.0",
+    "@typescript-eslint/rule-tester": "^5.0.1",
     "mocha": "^11.1.0"
   }
 }
